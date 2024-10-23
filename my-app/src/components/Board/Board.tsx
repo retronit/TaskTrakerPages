@@ -1,6 +1,7 @@
+
 import React from 'react';
-import TaskColumn from './TaskColumn';
-import '../styles/Board.scss';
+import TaskColumn from './TaskColumn/TaskColumn';
+import './Board.scss';
 
 const Board: React.FC = () => {
   return (

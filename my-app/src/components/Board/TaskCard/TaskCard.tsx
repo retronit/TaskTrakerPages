@@ -1,5 +1,5 @@
 import React from 'react';
-import '../styles/TaskCard.scss';
+import './TaskCard.scss';
 
 interface TaskCardProps {
   taskName: string;

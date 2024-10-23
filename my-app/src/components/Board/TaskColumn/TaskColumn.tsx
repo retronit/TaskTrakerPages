@@ -1,6 +1,6 @@
 import React from 'react';
-import TaskCard from './TaskCard';
-import '../styles/TaskColumn.scss';
+import TaskCard from '../TaskCard/TaskCard';
+import './TaskColumn.scss';
 
 interface TaskColumnProps {
   title: string;
